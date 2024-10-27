@@ -1,0 +1,8 @@
+
+# Ignorar todas as pastas e subpastas chamadas output
+**/output/
+output
+
+# Ignorar o arquivo Diagrama sem nome.drawio em qualquer diretório
+**/Diagrama sem nome.drawio
+Diagrama sem nome.drawio
