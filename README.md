@@ -6,6 +6,7 @@ Maria tem 1,50 metro e cresce 2 centímetros por ano, enquanto José tem 1,10 me
 Faça o fluxograma e o programa que calcule e imprima quantos anos serão necessários para que José seja maior que Maria.
 
 - **Arquivo de código**: `pergunta01.c`
+- **Arquivo de Fluxograma**: `pergunta01.drawio.png`
 
 ---
 
